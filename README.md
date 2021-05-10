@@ -7,7 +7,7 @@ Glad to meet you ! </h2>
 ###  whoami
 I'm Nithin R, a theoretical computer science student progressing every day.
 <br>
-Former NUS, IMSc Intern | Cisco Campus Ambassador | Hoobyist Security Researcher 
+Former NUS, IMSc Intern | Cisco Campus Ambassador | Hobbyist Security Researcher 
 
 <hr>
 
