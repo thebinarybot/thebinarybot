@@ -8,6 +8,7 @@ Glad to meet you ! </h2>
 I'm Nithin R, a theoretical computer science student progressing every day.
 <br>
 Former NUS, IMSc Intern | Cisco Campus Ambassador | Hobbyist Security Researcher 
+
 Checkout my LinkTree profile : https://linktr.ee/thebinarybot
 
 <hr>
