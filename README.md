@@ -62,8 +62,8 @@ Checkout my LinkTree profile : https://linktr.ee/thebinarybot
 #### I am currently learning :
 
 <div align='center'>
-  <a href='https://graphql.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=graphql&logoColor=white&style=for-the-badge&logo=graphql&color=000000' />
+  <a href='https://docs.soliditylang.org/en/v0.8.16/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Solidity&logoColor=white&style=for-the-badge&logo=graphql&color=000000' />
   </a>
 </div>
 
@@ -76,9 +76,6 @@ Checkout my LinkTree profile : https://linktr.ee/thebinarybot
     <img src='https://img.shields.io/static/v1?label=&message=go&logoColor=black&style=for-the-badge&logo=go&color=ffffff' />
   </a>
 
-  <a href='https://expressjs.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=express.js&logoColor=black&style=for-the-badge&logo=express.js&color=ffffff' />
-  </a> 
 </div>
 
 <hr>
