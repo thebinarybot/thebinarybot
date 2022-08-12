@@ -7,13 +7,13 @@ Glad to meet you ! </h2>
 ###  whoami
 I'm Nithin R, a theoretical computer science student progressing every day.
 <br>
-Former NUS, IMSc Intern | Cisco Campus Ambassador | Hobbyist Security Researcher 
+Former NUS, IMSc Intern | Cisco Campus Ambassador | Hobbyist Security Researcher
 
 Checkout my LinkTree profile : https://linktr.ee/thebinarybot
 
 <hr>
 
-#### I am familiar with :
+#### I am familiar with:
 <div align='center'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=for-the-badge&logo=git&logoColor=white&color=f05032' />
@@ -59,17 +59,17 @@ Checkout my LinkTree profile : https://linktr.ee/thebinarybot
 
 <hr>
 
-#### I am currently learning :
+#### I am currently learning:
 
 <div align='center'>
   <a href='https://docs.soliditylang.org/en/v0.8.16/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Solidity&logoColor=white&style=for-the-badge&logo=graphql&color=000000' />
+    <img src='https://img.shields.io/static/v1?label=&message=Solidity&logoColor=white&style=for-the-badge&logo=solidity&color=000000' />
   </a>
 </div>
 
 <hr>
 
-#### In future, I look forward to learn :
+#### In future, I look forward to learn:
 
 <div align='center'>
   <a href='https://golang.org/' target='_blank' rel='noopener' rel='noreferrer'>
@@ -80,7 +80,7 @@ Checkout my LinkTree profile : https://linktr.ee/thebinarybot
 
 <hr>
 
-#### Want to connect with me ? 
+#### Want to connect with me? 
 
 <div align='center'>
 
