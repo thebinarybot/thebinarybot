@@ -87,11 +87,11 @@ Checkout my digital resume: https://linktr.ee/thebinarybot
   <a href='https://linkedin.com/nithinravi10' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Nithin&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
+  <a href='https://twitter.com/thebinarybot' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=Twitter&message=thebinarybot&color=blue&style=for-the-badge&logo=twitter' />
+  </a>
   <a href='https://discordapp.com/thebinarybot#3541' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Discord&message=thebinarybot&color=blue&style=for-the-badge&logo=discord' />
-  </a>
-  <a href='https://twitter.com/thebinarybot' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Discord&message=thebinarybot&color=blue&style=for-the-badge&logo=twitter' />
   </a>
   
 </div>
