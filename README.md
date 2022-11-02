@@ -5,9 +5,8 @@ Glad to meet you ! </h2>
 
 
 ###  whoami
-I'm Nithin R, a theoretical computer science student progressing every day.
-<br>
-Security Researcher | Web 2 & Web 3 Dev | Blogger
+Hello, this is Nithin here. I’m a security researcher/enthusiast and I go by the handle @thebinarybot at most of the places online.
+I love to build and write about whatever I learn, be it tech or non-tech.
 
 Checkout my digital resume: https://linktr.ee/thebinarybot
 
