@@ -8,7 +8,7 @@ Glad to meet you ! </h2>
 Hello, this is Nithin here. I’m a dev, security researcher/enthusiast and I go by the handle @thebinarybot in most of the places online.
 I build and write about whatever I learn, tech and non-tech.
 
-Checkout my digital resume: https://linktr.ee/thebinarybot
+Checkout my digital resume: https://thebotsite.com
 
 <hr>
 
