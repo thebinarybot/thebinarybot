@@ -74,6 +74,9 @@ Checkout my digital resume: https://thebotsite.com
   <a href='https://golang.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=go&logoColor=black&style=for-the-badge&logo=go&color=ffffff' />
   </a>
+  <a href='https://rust-lang.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=RUST&logoColor=black&style=for-the-badge&logo=rust&color=ffffff' />
+  </a>
 
 </div>
 
